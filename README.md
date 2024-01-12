@@ -6,4 +6,4 @@ Controls (GBA):
 Left/Right to Move, A to Jump, B to Wall Climb, L/R to change brightness
 
 Big Thanks:
-Butano by GValiente (adding licence folder)
+Butano by GValiente (licences)
