@@ -1,0 +1,9 @@
+desktop.ini
+*.ini
+*.exe
+*.lnk
+/build
+*.elf
+*.gba
+*.sav
+*.sqlite3

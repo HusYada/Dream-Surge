@@ -1,0 +1,7 @@
+# Ignore
+*.elf
+*.gba
+*.ini
+*.sav
+*.sqlite3
+/build
