@@ -8,7 +8,9 @@ namespace ds {
     enum class scene_select {
 
         LOGO,
-        TITLE
+        TITLE,
+        TEST_MAP,
+        HUH
     };
 }
 
